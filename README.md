@@ -1,8 +1,7 @@
-## Cooler
+## Coolers
 > The coolest tool for coloring strings in the terminal.
 
 ![coolers demo](https://raw.github.com/joegesualdo/coolers/master/coolers-demo.gif)
-
 
 ## Install
 ```
